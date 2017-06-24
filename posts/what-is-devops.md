@@ -5,12 +5,12 @@ layout: default
 # [](#title)What is DevOps?
 
 ### Contents
-* [Intro](./what-is-devops#title)
-* [Is it a job?](./what-is-devops#is-devops-a-job)
-* [Defining DevOps](./what-is-devops#definition)
-* [Resources](./what-is-devops#resources)
+* [Intro](./posts/what-is-devops#title)
+* [Is it a job?](./posts/what-is-devops#is-devops-a-job)
+* [Defining DevOps](./posts/what-is-devops#definition)
+* [Resources](./posts/what-is-devops#resources)
 
-[Skip to the good stuff](./what-is-devops#definition)
+[Skip to the good stuff](./posts/what-is-devops#definition)
 
 At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
 
@@ -39,7 +39,7 @@ One of the key points of DevOps is people over process. You need more than just 
 
 <img src="http://imgur.com/5iNEBAj.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
 
-## [](#definition) Defining DevOps
+## [](#definition)Defining DevOps
 At the very highest level, I think DevOps is an organizational approach that seeks to break down barriers to code quality, stability and high availability by bridging the communications and technical gap between different teams. This boils down into a few priorities, such as increasing the velocity of code delivery, reducing barriers to communication, reducing the amount of unneeded processes/procedures, and increasing the amount of useful information available to you and your team.
 
 Practically, for a software company, this includes, but is not limited to doing the following:
@@ -75,7 +75,7 @@ Here are a few resources you can use to get started finding more about DevOps:
 *   [https://blog.chef.io/2010/07/16/what-devops-means-to-me/](https://blog.chef.io/2010/07/16/what-devops-means-to-me/)
 *   [http://radify.io/blog/four-principles-of-devops/](http://radify.io/blog/four-principles-of-devops/)
 *   [https://edwardcoffey.com/words/devops-more-than-automation/](https://edwardcoffey.com/words/devops-more-than-automation/)
-*   [What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
+*   [https://aws.amazon.com/devops/what-is-devops](https://aws.amazon.com/devops/what-is-devops/)
 *   PluralSight: [Continuous Integration and Continuous Delivery: The Big Picture](https://app.pluralsight.com/library/courses/continuous-integration-delivery-big-picture)
 *   PluralSight: [Continuous Monitoring: The Big Picture](https://app.pluralsight.com/library/courses/continuous-monitoring-big-picture)
 *   PluralSight: [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world)
@@ -97,6 +97,6 @@ I made it up, sorry. It's when a car is driving straight across an active train 
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
-[Return to Article](./what-is-devops#title)
+[Return to Article](./posts/what-is-devops#title)
 
 <br><br><br><br><br><br><br><br><br>
