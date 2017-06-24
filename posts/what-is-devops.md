@@ -15,6 +15,7 @@ layout: default
 At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
 
 <img src="http://imgur.com/Qp1Mglu.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
+<small><p style="text-align: center"><i>Image unrelated</i></p></small>
 
 I suspect DevOps is what happens when decision-makers finally understand how to use software not only to affect their bottom lines, but also the management of their organizations (and, therefore, their bottom lines).  It's not new; DevOps has essentially been around for decades in one form or another. It's just that now, DevOps is recognizable. Now that it's known industry-wide, everyone is exposed to the idea that you should continuously integrate, universally automate, and talk to each other. Go figure. 
 
@@ -95,7 +96,7 @@ That's all I've got. Thanks for reading and I hope you decide to do some DevOps 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### [](#train-car-syndrome) Train Car Syndrome
-I made it up, sorry. It's when a car is driving straight across an active train crossing and might get hit. Or it's when all the cars in a train are disconnected so they bounce back and forth, losing momentum. There may be an official name to call this, but I sure as heck couldn't find it on the internet in the 90 seconds I looked. Huh.
+I made it up, sorry. It's when all the cars in a train are disconnected so they bounce back and forth, losing momentum. There may be an official name to call this, but I sure as heck couldn't find it on the internet in the 90 seconds I looked. Huh.
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
