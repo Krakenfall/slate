@@ -12,10 +12,11 @@ layout: default
 
 [Skip to the good stuff](./what-is-devops#definition)
 
+## [](#title)Intro
+
 At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
 
-<img src="http://imgur.com/Qp1Mglu.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
-<small><p style="text-align: center"><i>Image unrelated</i></p></small>
+<img src="http://imgur.com/Qp1Mglu.gif" alt="image_unrelated" style="display: block; margin: 0 auto;">
 
 I suspect DevOps is what happens when decision-makers finally understand how to use software not only to affect their bottom lines, but also the management of their organizations (and, therefore, their bottom lines).  It's not new; DevOps has essentially been around for decades in one form or another. It's just that now, DevOps is recognizable. Now that it's known industry-wide, everyone is exposed to the idea that you should continuously integrate, universally automate, and talk to each other. Go figure. 
 
