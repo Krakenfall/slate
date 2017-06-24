@@ -22,3 +22,4 @@ In no particular order:
 * Demand-Based Dynamic Provisioning
 
 
+[On to the first post!](./whatisdevops) {: .alignright}
