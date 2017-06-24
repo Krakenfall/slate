@@ -85,9 +85,11 @@ Here are a few resources you can use to get started finding more about DevOps:
     <br>
     <br>
 That's all I've got. Thanks for reading and I hope you decide to do some DevOps of your own!
+<br>
+
 <img src="http://imgur.com/APeZCFZ.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
 
-[Home ](../) | [Last Post](../)
+[Home ](../../) | [Last Post](../../)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
