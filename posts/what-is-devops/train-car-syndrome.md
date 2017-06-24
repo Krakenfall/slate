@@ -4,4 +4,4 @@ I made it up, sorry. It's when all the cars in a train are disconnected so they 
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
-[Return to Article](../../what-is-devops#title-1)
+[Return to Article](../what-is-devops#title-1)
