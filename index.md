@@ -7,7 +7,7 @@ layout: default
 Welcome to my blog! I'm Clinton Barr, a software developer and DevOps advocate. I've been working in DevOps for over 4 years now and I've really enjoyed learning how to make things better.
 
 ## [](#header-2)Contents
-* [What is DevOps?](./posts/whatisdevops)
+* [What is DevOps?](./posts/what-is-devops)
 
 ## [](#header-3)Future Content
 In no particular order:
@@ -22,4 +22,4 @@ In no particular order:
 * Demand-Based Dynamic Provisioning
 
 
-<p style="text-align: right"><a href="./posts/whatisdevops">On to the first post!</a><p/>
+<p style="text-align: right"><a href="./posts/what-is-devops">On to the first post!</a><p/>
