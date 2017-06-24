@@ -5,12 +5,12 @@ layout: default
 # [](#title)What is DevOps?
 
 ### Contents
-* [Intro](./posts/what-is-devops#title)
-* [Is it a job?](./posts/what-is-devops#is-devops-a-job)
-* [Defining DevOps](./posts/what-is-devops#definition)
-* [Resources](./posts/what-is-devops#resources)
+* [Intro](./what-is-devops#title)
+* [Is it a job?](./what-is-devops#is-devops-a-job)
+* [Defining DevOps](./what-is-devops#definition)
+* [Resources](./what-is-devops#resources)
 
-[Skip to the good stuff](./posts/what-is-devops#definition)
+[Skip to the good stuff](./what-is-devops#definition)
 
 At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
 
@@ -75,7 +75,7 @@ Here are a few resources you can use to get started finding more about DevOps:
 *   [https://blog.chef.io/2010/07/16/what-devops-means-to-me/](https://blog.chef.io/2010/07/16/what-devops-means-to-me/)
 *   [http://radify.io/blog/four-principles-of-devops/](http://radify.io/blog/four-principles-of-devops/)
 *   [https://edwardcoffey.com/words/devops-more-than-automation/](https://edwardcoffey.com/words/devops-more-than-automation/)
-*   [https://aws.amazon.com/devops/what-is-devops](https://aws.amazon.com/devops/what-is-devops/)
+*   [https://aws.amazon.com/devops/what-is-devops/](https://aws.amazon.com/devops/what-is-devops/)
 *   PluralSight: [Continuous Integration and Continuous Delivery: The Big Picture](https://app.pluralsight.com/library/courses/continuous-integration-delivery-big-picture)
 *   PluralSight: [Continuous Monitoring: The Big Picture](https://app.pluralsight.com/library/courses/continuous-monitoring-big-picture)
 *   PluralSight: [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world)
@@ -87,7 +87,7 @@ Here are a few resources you can use to get started finding more about DevOps:
 That's all I've got. Thanks for reading and I hope you decide to do some DevOps of your own!
 <img src="http://imgur.com/APeZCFZ.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
 
-[Home ](./) | [Last Post](./)
+[Home ](../) | [Last Post](../)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -97,6 +97,6 @@ I made it up, sorry. It's when a car is driving straight across an active train 
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
-[Return to Article](./posts/what-is-devops#title)
+[Return to Article](./what-is-devops#title)
 
 <br><br><br><br><br><br><br><br><br>
