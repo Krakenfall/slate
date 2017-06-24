@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Welcome
 
-Welcome to my blog! I'm Clinton Barr, a software developer and DevOps advocate. This blog is currently under construction and will soon feature DevOps and software development topics. It will be good!
+Welcome to my blog! I'm Clinton Barr, a software developer and DevOps advocate. I've been working in DevOps for over 4 years now and I've really enjoyed learning how to make things better.
 
 ## [](#header-2)Contents
 * [What is DevOps?](./whatisdevops)
