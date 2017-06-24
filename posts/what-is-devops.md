@@ -14,7 +14,7 @@ layout: default
 
 ## [](#title-1)Intro
 
-At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome-1) (usually by spinning up another track).
+At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](./what-is-devops/train-car-syndrome) (usually by spinning up another track).
 
 <img src="http://imgur.com/Qp1Mglu.gif" alt="image_unrelated" style="display: block; margin: 0 auto;">
 
@@ -92,15 +92,3 @@ That's all I've got. Thanks for reading and I hope you decide to do some DevOps 
 <img src="http://imgur.com/APeZCFZ.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
 
 [Home ](../../) | [Last Post](../../)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-### [](#train-car-syndrome-1) Train Car Syndrome
-I made it up, sorry. It's when all the cars in a train are disconnected so they bounce back and forth, losing momentum. There may be an official name to call this, but I sure as heck couldn't find it on the internet in the 90 seconds I looked. Huh.
-
-<img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
-
-[Return to Article](./what-is-devops#title-1)
-
-<br><br><br><br><br><br><br><br><br>
