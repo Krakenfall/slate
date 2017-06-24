@@ -5,12 +5,12 @@ layout: default
 # [](#title)What is DevOps?
 
 ### Contents
-* [Intro](#title)
-* [Is it a job?](#is-devops-a-job)
-* [Defining DevOps](#definition)
-* [Resources](#resources)
+* [Intro](./what-is-devops#title)
+* [Is it a job?](./what-is-devops#is-devops-a-job)
+* [Defining DevOps](./what-is-devops#definition)
+* [Resources](./what-is-devops#resources)
 
-[Skip to the good stuff](#definition)
+[Skip to the good stuff](./what-is-devops#definition)
 
 At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
 
@@ -97,6 +97,6 @@ I made it up, sorry. It's when a car is driving straight across an active train 
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
-[Return to Article](#title)
+[Return to Article](./what-is-devops#title)
 
 <br><br><br><br><br><br><br><br><br>
