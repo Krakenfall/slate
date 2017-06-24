@@ -2,25 +2,25 @@
 layout: default
 ---
 
-# [](#title)What is DevOps?
+# [](#title-1)What is DevOps?
 
 ### Contents
-* [Intro](./what-is-devops#title)
-* [Is it a job?](./what-is-devops#is-devops-a-job)
-* [Defining DevOps](./what-is-devops#definition)
-* [Resources](./what-is-devops#resources)
+* [Intro](./what-is-devops#title-1)
+* [Is it a job?](./what-is-devops#is-devops-a-job-1)
+* [Defining DevOps](./what-is-devops#definition-1)
+* [Resources](./what-is-devops#resources-1)
 
-[Skip to the good stuff](./what-is-devops#definition)
+[Skip to the good stuff](./what-is-devops#definition-1)
 
-## [](#title)Intro
+## [](#title-1)Intro
 
-At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome) (usually by spinning up another track).
+At this point, "DevOps" might seem like a buzz word to some, but DevOps has real value. DevOps helps smooth over pain points in the [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle) of applications and services. It does this by focusing on the what and how. It aims to increase development velocity through improvement in communication, automation of process and reducing [train car syndrome](#train-car-syndrome-1) (usually by spinning up another track).
 
 <img src="http://imgur.com/Qp1Mglu.gif" alt="image_unrelated" style="display: block; margin: 0 auto;">
 
 I suspect DevOps is what happens when decision-makers finally understand how to use software not only to affect their bottom lines, but also the management of their organizations (and, therefore, their bottom lines).  It's not new; DevOps has essentially been around for decades in one form or another. It's just that now, DevOps is recognizable. Now that it's known industry-wide, everyone is exposed to the idea that you should continuously integrate, universally automate, and talk to each other. Go figure. 
 
-## [](#is-devops-a-job)Is it a job?
+## [](#is-devops-a-job-1)Is it a job?
 
 Debate rages in the undercurrents of the technical shadows of the internet: Is DevOps a job? It was for me; I held DevOps positions at my first employer for over 3 years. Only having heard of the controversy, I can only speculate on the established sides. I imagine all debates essentially go down like this:
 
@@ -41,7 +41,7 @@ One of the key points of DevOps is people over process. You need more than just 
 
 <img src="http://imgur.com/5iNEBAj.gif" alt="they_just_like_close_calls" style="display: block; margin: 0 auto;">
 
-## [](#definition)Defining DevOps
+## [](#definition-1)Defining DevOps
 At the very highest level, I think DevOps is an organizational approach that seeks to break down barriers to code quality, stability and high availability by bridging the communications and technical gap between different teams. This boils down into a few priorities, such as increasing the velocity of code delivery, reducing barriers to communication, reducing the amount of unneeded processes/procedures, and increasing the amount of useful information available to you and your team.
 
 Practically, for a software company, this includes, but is not limited to doing the following:
@@ -71,7 +71,7 @@ Practically, for a software company, this includes, but is not limited to doing 
 
 If some of this seems hard to do in your organization, don’t forget that DevOps is an approach, a set of principles that lead towards continuous improvement and trust in an organization (and, therefore, better apps/services). DevOps can be applied in small steps and is very worthy goal.
 
-## [](#resources)Resources
+## [](#resources-1)Resources
 Here are a few resources you can use to get started finding more about DevOps:
 
 *   [https://blog.chef.io/2010/07/16/what-devops-means-to-me/](https://blog.chef.io/2010/07/16/what-devops-means-to-me/)
@@ -96,11 +96,11 @@ That's all I've got. Thanks for reading and I hope you decide to do some DevOps 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-### [](#train-car-syndrome) Train Car Syndrome
+### [](#train-car-syndrome-1) Train Car Syndrome
 I made it up, sorry. It's when all the cars in a train are disconnected so they bounce back and forth, losing momentum. There may be an official name to call this, but I sure as heck couldn't find it on the internet in the 90 seconds I looked. Huh.
 
 <img src="http://i.imgur.com/VQcrz0v.gif" alt="I_made_that_up" style="display: block; margin: 0 auto;">
 
-[Return to Article](./what-is-devops#title)
+[Return to Article](./what-is-devops#title-1)
 
 <br><br><br><br><br><br><br><br><br>
